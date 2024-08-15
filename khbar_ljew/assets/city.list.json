@@ -1,0 +1,283 @@
+[
+    
+    {
+        "id": 2375558,
+        "name": "Zouerate",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -12.45205,
+            "lat": 22.718731
+        }
+    },
+    {
+        "id": 2375742,
+        "name": "Trarza",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -14.65878,
+            "lat": 17.866501
+        }
+    },
+    {
+        "id": 2375989,
+        "name": "Tiris Zemmour",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -9.0,
+            "lat": 24.0
+        }
+    },
+    {
+        "id": 2376193,
+        "name": "Tidjikja",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -11.42715,
+            "lat": 18.55644
+        }
+    },
+    {
+        "id": 2376551,
+        "name": "Tagant",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -10.2075,
+            "lat": 18.696671
+        }
+    },
+    {
+        "id": 2376719,
+        "name": "Sélibaby",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -12.1829,
+            "lat": 15.15895
+        }
+    },
+    {
+        "id": 2376898,
+        "name": "Rosso",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -15.80727,
+            "lat": 16.520041
+        }
+    },
+    {
+        "id": 2377449,
+        "name": "District de Nouakchott",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -15.95,
+            "lat": 18.1
+        }
+    },
+    {
+        "id": 2377450,
+        "name": "Nouakchott",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -15.9785,
+            "lat": 18.08581
+        }
+    },
+    {
+        "id": 2377457,
+        "name": "Nouadhibou",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -17.034651,
+            "lat": 20.930981
+        }
+    },
+    {
+        "id": 2377539,
+        "name": "Néma",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -7.2535,
+            "lat": 16.616199
+        }
+    },
+    {
+        "id": 2378538,
+        "name": "Kiffa",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -11.40453,
+            "lat": 16.61659
+        }
+    },
+    {
+        "id": 2378736,
+        "name": "Kaédi",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -13.50474,
+            "lat": 16.14653
+        }
+    },
+    {
+        "id": 2378903,
+        "name": "Inchiri",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -15.06833,
+            "lat": 20.0625
+        }
+    },
+    {
+        "id": 2379024,
+        "name": "Hodh El Gharbi",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -10.0,
+            "lat": 16.5
+        }
+    },
+    {
+        "id": 2379025,
+        "name": "Hodh ech Chargui",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -7.25,
+            "lat": 19.0
+        }
+    },
+    {
+        "id": 2379384,
+        "name": "Gorgol",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -12.82444,
+            "lat": 16.053329
+        }
+    },
+    {
+        "id": 2380426,
+        "name": "Dakhlet Nouadhibou",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -16.23361,
+            "lat": 20.94833
+        }
+    },
+    {
+        "id": 2380519,
+        "name": "Chinguetti",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -12.2622,
+            "lat": 20.440359
+        }
+    },
+    {
+        "id": 2380670,
+        "name": "Boutilimit",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -14.6944,
+            "lat": 17.5467
+        }
+    },
+    {
+        "id": 2380975,
+        "name": "Bîr Mogreïn",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -11.57928,
+            "lat": 25.221251
+        }
+    },
+    {
+        "id": 2381163,
+        "name": "Barkéwol",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -12.49849,
+            "lat": 16.64039
+        }
+    },
+    {
+        "id": 2381291,
+        "name": "Aioun",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -9.6149,
+            "lat": 16.6614
+        }
+    },
+    {
+        "id": 2381334,
+        "name": "Atar",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -13.04986,
+            "lat": 20.516859
+        }
+    },
+    {
+        "id": 2381344,
+        "name": "Assaba",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -11.90917,
+            "lat": 16.59556
+        }
+    },
+    {
+        "id": 2381659,
+        "name": "Aleg",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -13.9209,
+            "lat": 17.0481
+        }
+    },
+    {
+        "id": 2381690,
+        "name": "Akjoujt",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -14.41639,
+            "lat": 19.696939
+        }
+    },
+    {
+        "id": 2381972,
+        "name": "Adrar",
+        "state": "",
+        "country": "MR",
+        "coord": {
+            "lon": -10.07111,
+            "lat": 20.50222
+        }
+    }
+]
