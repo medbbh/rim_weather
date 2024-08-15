@@ -1,6 +1,6 @@
-# Weather App
+# RIM Weather
 
-**Weather App** is a Flutter-based mobile application that provides real-time weather information specifically for cities in Mauritania. Built using Flutter, the app leverages the OpenWeather API for fetching weather data and utilizes Flutter Bloc for state management.
+**RIM Weather** is a Flutter-based mobile application that provides real-time weather information specifically for cities in Mauritania. Built using Flutter, the app leverages the OpenWeather API for fetching weather data and utilizes Flutter Bloc for state management.
 
 ## Features
 
@@ -14,4 +14,4 @@
 - **Flutter**: A framework for building cross-platform mobile applications.
 - **Flutter Bloc**: For state management and business logic.
 - **OpenWeather API**: To fetch real-time weather data for cities.
-- **Geolocator**: For location services (if needed).
+- **Geolocator**: For location services.
